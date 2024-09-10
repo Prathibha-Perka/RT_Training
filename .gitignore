@@ -43,3 +43,8 @@ $RECYCLE.BIN/
 **/__pycache__/
 **/.venv/
 **/venv/
+
+
+#custom
+.sfdx\tools\250\apex.db
+RT_Training-1.code-workspace
